@@ -1,3 +1,3 @@
 console.log('configmaster.js');
-console.log('version14');
+console.log('version15');
 console.log('smit');
