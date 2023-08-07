@@ -1,3 +1,3 @@
 console.log('configmaster.js');
-console.log('version13 smit brannch');
+console.log('version14');
 console.log('smit');
